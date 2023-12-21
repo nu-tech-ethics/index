@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<h2>Current Course</h2>
+
+<div class="container text-center">
+  {% for item in site.curr_sites %}
+    <div class="row">
+      <div class="col-12">
+        <a href="{{ item.url }}">{{item.term}}</a> - Taught by: {{item.profs}}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<h2>Previous Iterations</h2>
+
+<div class="container text-center">
+  {% for item in site.old_sites %}
+    <div class="row">
+      <div class="col-12">
+        <a href="{{ site.url }}/{{ item.url }}">{{item.term}}</a> - Taught by: {{item.profs}}
+      </div>
+    </div>
+  {% endfor %}
+</div>

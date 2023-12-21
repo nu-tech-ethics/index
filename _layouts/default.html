@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.html %}
+    </head>
+    <body class="one-column">
+        <div class="container">
+            {% include header.html %}
+            <main>
+                {{ content }}
+            </main>
+            {% include footer.html %}
+        </div>
+        {% include scripts.html %}
+    </body>
+</html>
