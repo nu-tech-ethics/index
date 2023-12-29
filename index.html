@@ -6,7 +6,7 @@ layout: default
 {% for item in site.curr_sites %}
   <div class="row">
     <div class="col-12">
-      <a href="{{ item.url }}">{{item.term}}</a> - Taught by: {{item.profs}}
+      <a href="{{ site.url }}/{{ item.url }}">{{item.term}}</a> - Taught by: {{item.profs}}
     </div>
   </div>
 {% endfor %}
