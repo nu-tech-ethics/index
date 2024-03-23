@@ -32,12 +32,9 @@ sass:
   sass_dir: _sass
 
 curr_sites:
-  - term: 'Winter 2024'
+  - term: 'Spring 2024'
     profs: 'Natalie Araujo Melo'
-    url: winter2024-nam
-  - term: 'Winter 2024'
-    profs: 'Victoria C. Chávez'
-    url: winter2024-vcc
+    url: spring2024
 old_sites:
   - term: 'Winter 2021'
     profs: 'Sarah Van Wart'
@@ -48,3 +45,9 @@ old_sites:
   - term: 'Spring 2023'
     profs: 'Natalie Araujo Melo & Victoria C. Chávez'
     url: spring2023
+  - term: 'Winter 2024'
+    profs: 'Natalie Araujo Melo'
+    url: winter2024-nam
+  - term: 'Winter 2024'
+    profs: 'Victoria C. Chávez'
+    url: winter2024-vcc
