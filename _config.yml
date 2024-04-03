@@ -36,6 +36,9 @@ curr_sites:
     profs: 'Natalie Araujo Melo'
     url: spring2024
 old_sites:
+  - term: 'Fall 2020'
+    profs: 'Sarah Van Wart & Sepehr Vakil'
+    url: 'https://docs.google.com/document/d/18EN_JseX-NS2t4osLYBIE81cXeB-kr39/edit'
   - term: 'Winter 2021'
     profs: 'Sarah Van Wart'
     url: winter2021
