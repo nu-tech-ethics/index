@@ -31,10 +31,10 @@ sass:
   style: compact
   sass_dir: _sass
 
-curr_sites:
-  - term: 'Summer 2024'
-    profs: 'Victoria C. Chávez'
-    url: summer2024
+# curr_sites:
+#   - term: ''
+#     profs: ''
+#     url: index
 old_sites:
   - term: 'Fall 2020'
     profs: 'Sarah Van Wart & Sepehr Vakil'
@@ -57,3 +57,6 @@ old_sites:
   - term: 'Spring 2024'
     profs: 'Natalie Araujo Melo'
     url: spring2024
+  - term: 'Summer 2024'
+    profs: 'Victoria C. Chávez'
+    url: summer2024
