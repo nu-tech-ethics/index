@@ -31,10 +31,10 @@ sass:
   style: compact
   sass_dir: _sass
 
-# curr_sites:
-#   - term: ''
-#     profs: ''
-#     url: index
+curr_sites:
+  - term: 'Summer 2026'
+    profs: 'Natalie Araujo Melo'
+    url: summer2026
 old_sites:
   - term: 'Fall 2020'
     profs: 'Sarah Van Wart & Sepehr Vakil'
